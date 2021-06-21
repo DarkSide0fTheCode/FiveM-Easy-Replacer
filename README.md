@@ -37,7 +37,7 @@
   <h3 align="center">FiveM-Easy-Replacer</h3>
 
   <p align="center">
-    A simple PowerShell script for make redundant replaces faster into Lua files
+    A simple PowerShell script to make some FiveM related redundant replaces faster into Lua files
     <br />
     <br />
     <a href="https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer/issues">Report Bug</a>
