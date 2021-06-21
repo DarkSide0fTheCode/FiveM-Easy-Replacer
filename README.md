@@ -114,6 +114,7 @@ To get a local copy up and running follow these simple steps.
 ## Usage
 
 The features are quite simple at the moment, you can replace event prefix (only esx atm) with desired one and replace MySQL library events with GHMattiMySql's one
+<br/>
 Example:
 ```sh
 esx:getSharedObject
