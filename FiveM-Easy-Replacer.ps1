@@ -38,7 +38,7 @@ if ( $custom_framework -ne 'N' )
     foreach ($file in $target_files)
     {
         (Get-Content $file.PSPath) |
-        Foreach-Object { $_ -creplace "esx", $custom_framework } |
+        Foreach-Object { $_ -creplace "\besx\b", $custom_framework } |
         Set-Content $file.PSPath
         $log = $log + $file.fullname + "`n"
     }
