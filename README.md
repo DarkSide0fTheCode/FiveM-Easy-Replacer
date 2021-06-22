@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** GianmarcoAquilano, repo_name, twitter_handle, email, project_title, project_description
+*** DarkSide0fTheCode, repo_name, twitter_handle, email, project_title, project_description
 -->
 
 
@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer">
+  <a href="https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer">
     <img src="images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -40,9 +40,9 @@
     A simple PowerShell script to make some FiveM related redundant replaces faster into Lua files
     <br />
     <br />
-    <a href="https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer/issues">Report Bug</a>
+    <a href="https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer/issues">Request Feature</a>
+    <a href="https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer/issues">Request Feature</a>
   </p>
 </p>
 
@@ -79,7 +79,7 @@
 ## About The Project
 <br />
 
- <a href="https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer">
+ <a href="https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer">
     <img src="images/showcase.png" alt="Showcase" width="576" height="324">
  </a>
 
@@ -102,7 +102,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer.git
+   git clone https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer.git
    ```
 2. Right Click - Run With Powershell or execute it into command line
    ```sh
@@ -147,7 +147,7 @@ Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
 
 [Discord](https://discord.com/users/179289479360675840)
 
-Project Link: [https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer](https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer)
+Project Link: [https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer](https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer)
 
 
 
@@ -160,15 +160,15 @@ Project Link: [https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/GianmarcoAquilano/FiveM-Easy-Replacer.svg?style=for-the-badge
-[contributors-url]: https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/GianmarcoAquilano/FiveM-Easy-Replacer.svg?style=for-the-badge
-[forks-url]: https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer/network/members
-[stars-shield]: https://img.shields.io/github/stars/GianmarcoAquilano/FiveM-Easy-Replacer.svg?style=for-the-badge
-[stars-url]: https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GianmarcoAquilano/FiveM-Easy-Replacer.svg?style=for-the-badge
-[issues-url]: https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer/issues
-[license-shield]: https://img.shields.io/github/license/GianmarcoAquilano/FiveM-Easy-Replacer.svg?style=for-the-badge
-[license-url]: https://github.com/GianmarcoAquilano/FiveM-Easy-Replacer/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/DarkSide0fTheCode/FiveM-Easy-Replacer.svg?style=for-the-badge
+[contributors-url]: https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DarkSide0fTheCode/FiveM-Easy-Replacer.svg?style=for-the-badge
+[forks-url]: https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer/network/members
+[stars-shield]: https://img.shields.io/github/stars/DarkSide0fTheCode/FiveM-Easy-Replacer.svg?style=for-the-badge
+[stars-url]: https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DarkSide0fTheCode/FiveM-Easy-Replacer.svg?style=for-the-badge
+[issues-url]: https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer/issues
+[license-shield]: https://img.shields.io/github/license/DarkSide0fTheCode/FiveM-Easy-Replacer.svg?style=for-the-badge
+[license-url]: https://github.com/DarkSide0fTheCode/FiveM-Easy-Replacer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/GianmarcoAquilano
+[linkedin-url]: https://linkedin.com/in/DarkSide0fTheCode
