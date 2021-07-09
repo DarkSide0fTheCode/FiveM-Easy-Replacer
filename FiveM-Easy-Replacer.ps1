@@ -65,6 +65,7 @@ if ( $custom_sql_library -eq 2)
 Write-Host "`nFinished`n";
 Write-Host "Processed file/s`n";
 Write-Host $log -ForegroundColor green;
+Write-Host "Press any key to exit`n";
 $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
 
 # SIG # Begin signature block
