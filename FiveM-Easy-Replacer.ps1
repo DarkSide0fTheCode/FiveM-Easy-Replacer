@@ -55,6 +55,8 @@ if ( $custom_sql_library -eq 2)
         Foreach-Object { $_ -creplace "MySQL.Async.execute", "exports.ghmattimysql:execute" } |
         Foreach-Object { $_ -creplace "MySQL.Sync.execute", "exports.ghmattimysql:executeSync" } |
         Foreach-Object { $_ -creplace "MySQL.Sync.execute", "exports.ghmattimysql:executeSync" } |
+        Foreach-Object { $_ -creplace "MySQL.Async.store", "exports.ghmattimysql:store" } |
+        Foreach-Object { $_ -creplace "MySQL.Sync.store", "exports.ghmattimysql:storeSync" } |
         Set-Content $file.PSPath
     }
 
